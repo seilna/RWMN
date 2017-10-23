@@ -135,6 +135,17 @@ optional arguments:
 ## Video & Subtitle Features
 We also plan to release our video & subtitle features soon!
 
+## Examples
+### Video-based Answering 
+![video_example1](assets/supp_fig1_compressed.png)
+![video_example2](assets/supp_fig2_compressed.png)
+
+## Text-based Answering
+![text_example1](assets/supp_fig3.png)
+![text_example2](assets/supp_fig4.png)
+![text_example3](assets/supp_fig5.png)
+![text_example4](assets/supp_fig6.png)
+
 ## Acknowledgement
 We appreciate [Youngjae Yu](https://yj-yu.github.io/home/), Byeongchang Kim, Insu Jeon, [Yunseok Jang](https://yunseokjang.github.io/), Youngjin Kim, [Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/) for helpful comments and discussions.
 
