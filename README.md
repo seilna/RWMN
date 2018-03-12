@@ -150,9 +150,9 @@ We also plan to release our video & subtitle features soon!
 We appreciate [Youngjae Yu](https://yj-yu.github.io/home/), Byeongchang Kim, Insu Jeon, [Yunseok Jang](https://yunseokjang.github.io/), Youngjin Kim, [Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/) for helpful comments and discussions.
 
 ## Authors
-![Seil Na](seilna.github.io), Sangho Lee, Jisung Kim, ![Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)
+[Seil Na](seilna.github.io), Sangho Lee, Jisung Kim, [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)
 
-![Vision and Learning Lab](https://vision.snu.ac.kr) @ Computer Science and Engineering, Seoul National University, Seoul, Korea
+[Vision and Learning Lab](https://vision.snu.ac.kr) @ Computer Science and Engineering, Seoul National University, Seoul, Korea
 
 ## License
 MIT license
