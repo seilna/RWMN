@@ -1,6 +1,16 @@
 # RWMN
 Paper: A Read-Write Memory Network for Movie Story Understanding, **[Seil Na](https://seilna.github.io/)**, Sangho Lee, Jisung Kim, [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/). Accepted at ICCV 2017 [[arXiv]](https://arxiv.org/abs/1709.09345) 
 
+```
+@InProceedings{Na_2017_ICCV,
+author = {Na, Seil and Lee, Sangho and Kim, Jisung and Kim, Gunhee},
+title = {A Read-Write Memory Network for Movie Story Understanding},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {Oct},
+year = {2017}
+}
+```
+
 ![main_figure](assets/rwmn.png)
 
 We propose a novel memory network model named Read-Write Memory Network (RWMN) to perform question and answering tasks for large-scale, multimodal movie story understanding. The key focus of our RWMN model is to design the read network and the write network that consist of multiple convolutional layers, which enable memory read and write operations to have high capacity and flexibility. For evaluation, we apply our model to all the six tasks of the [MovieQA benchmark](http://movieqa.cs.toronto.edu/home/), and achieve the best accuracies on several tasks, especially on the visual QA task.
@@ -133,7 +143,13 @@ optional arguments:
 ```
 
 ## Video & Subtitle Features
-We also plan to release our video & subtitle features soon!
+
+```
+$ chmod +x download.sh
+$ ./download.sh
+```
+
+* It would be about size of 51G.
 
 ## Examples
 ### Video-based Answering 
@@ -153,6 +169,8 @@ We appreciate [Youngjae Yu](https://yj-yu.github.io/home/), Byeongchang Kim, Ins
 [Seil Na](seilna.github.io), Sangho Lee, Jisung Kim, [Gunhee Kim](http://www.cs.cmu.edu/~gunhee/)
 
 [Vision and Learning Lab](https://vision.snu.ac.kr) @ Computer Science and Engineering, Seoul National University, Seoul, Korea
+
+
 
 ## License
 MIT license
