@@ -150,7 +150,7 @@ $ ./download.sh
 ```
 
 * It would be about size of 51G.
-* Also, you should touch path for [Compact-Bilinear-Pooling](https://github.com/ronghanghu/tensorflow_compact_bilinear_pooling) at `model/ltm.py` like sys.path.append("your/path/to/cbp")
+* Also, you should touch path for [Compact-Bilinear-Pooling](https://github.com/ronghanghu/tensorflow_compact_bilinear_pooling) at `model/ltm.py` like `sys.path.append("your/path/to/cbp")`
 
 ## Examples
 ### Video-based Answering 
